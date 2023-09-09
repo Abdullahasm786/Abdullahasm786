@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah A S M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://abdullahasm786.github.io/Portfolio-asm/](https://abdullahasm786.github.io/Portfolio-asm/)
+- 👨‍💻 All of my projects are available at [https://abdullahasm786.github.io/Portfolio-asm/](https://asmabdullah.tech/)
 
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVA SCRIPT,C, PYTHON**
 
